@@ -1,0 +1,14 @@
+# Experimental data
+data/
+*.csv
+
+# Python environments
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
